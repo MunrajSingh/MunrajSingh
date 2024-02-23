@@ -1,7 +1,24 @@
-### Hi there 👋
+# Munraj Singh
+<h1>Hi, I'm Munraj <br/>Business/Data Analyst</a>
+
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+- [Diabetes Analysis Project (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- [Business Intelligence Project (Tableau)](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+<h2> 🤳 Connect with me on LinkedIn:</h2> https://linkedin.com/in/joshmadakor
+
+
 
 <!--
-**MunrajSingh/MunrajSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
