@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- [Diabetes Analysis Project (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Diabetes Analysis Project (Python)](https://github.com/MunrajSingh/Diabetes-Analysis/tree/main)
 
 - [Business Intelligence Project (Tableau)](https://github.com/joshmadakor1/Algorithms-Practice)
 
