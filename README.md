@@ -1,5 +1,5 @@
 # Munraj Singh
-<h1>Hi, I'm Munraj <br/>Business/Data Analyst</a>
+<h1>Business/Data Analyst</h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
