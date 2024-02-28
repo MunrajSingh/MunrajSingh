@@ -5,7 +5,7 @@
 
 - [Diabetes Analysis Project (Python)](https://github.com/MunrajSingh/Diabetes-Analysis/tree/main)
 
-- [Business Intelligence Project (Tableau)](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Business Intelligence Project (Tableau)](https://github.com/MunrajSingh/Attrition_Visualization)
 
 
 <h2> 🤳 Connect with me on LinkedIn:</h2> www.linkedin.com/in/munraj-singh-01
